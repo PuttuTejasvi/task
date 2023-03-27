@@ -1,0 +1,30 @@
+body {
+      background-image: url("../assests/galaxy.jpg");
+      background-size: cover;
+    }
+     h1 {
+        text-align: center;
+        font-size: 45px;
+        font-weight: bold;
+        color:lightcoral;
+        font-family: georgia;
+      }
+     h2 {
+        text-align: center;
+        font-size: 30px;
+        border-style: solid;
+        border-color: beige ;
+        color: beige;
+      }
+    .box {
+      border: 2px solid palegreen;
+      display: inline-block; 
+      padding: 0.5em; 
+      margin-right: 20em;  
+      margin-left: 20em; 
+    }
+    .box1{
+      color: lightcyan;
+  font-size: 20px;
+  font-family: Arial, sans-serif;
+  }
